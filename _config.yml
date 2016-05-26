@@ -11,7 +11,7 @@ subnav:
   github: "https://github.com/mrshyi"
   weibo: "http://weibo.com/Mrshyi"
   rss: "#"
-  #zhihu: "#"
+  zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -34,15 +34,11 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-cnnz_analytics: true
 favicon: /favicon.png
+cnnz_analytics: true
 
 #你的头像url
-<<<<<<< HEAD
 avatar: http://7xonmx.com1.z0.glb.clouddn.com/img.jpg
-=======
-avatar:
->>>>>>> upstream/master
 #是否开启分享
 share_jia: true
 share_addthis: false
@@ -54,7 +50,7 @@ tagcloud: true
 
 #是否开启友情链接
 #不开启——
-friends: false
+#friends: false
 #开启——
 friends:
   奥巴马的博客: http://localhost:4000/
@@ -68,4 +64,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: Geek,on the road!
+aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
